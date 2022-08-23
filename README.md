@@ -1,8 +1,11 @@
 # Backend-ffmpeg-Krowdy
 Reto de Backend propuesto en el bootcamp de Krowdy
-
-```
- @@Video Demostrativo@@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
 ```bash 
 https://drive.google.com/file/d/1ksFBYCOrMew7zT8RBUzpVp9D3vrx4O3f/view?usp=sharing
