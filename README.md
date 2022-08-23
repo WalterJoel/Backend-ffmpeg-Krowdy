@@ -4,7 +4,7 @@ Reto de Backend propuesto en el bootcamp de Krowdy
 
 # Video Demostrativo 
 ```bash 
-@@https://drive.google.com/file/d/1ksFBYCOrMew7zT8RBUzpVp9D3vrx4O3f/view?usp=sharing@@
+https://drive.google.com/file/d/1ksFBYCOrMew7zT8RBUzpVp9D3vrx4O3f/view?usp=sharing
 ```
 
 ## Primero se debe instalar dependencias
