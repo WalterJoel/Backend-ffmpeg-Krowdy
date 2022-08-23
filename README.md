@@ -2,7 +2,7 @@
 Reto de Backend propuesto en el bootcamp de Krowdy
 ```diff
 
-## @@ Video Demostrativo @@
+@ Video Demostrativo @
 ```
 ```bash 
 https://drive.google.com/file/d/1ksFBYCOrMew7zT8RBUzpVp9D3vrx4O3f/view?usp=sharing
